@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(192, 192, 192);
+}
+
+h1 {
+    color: rgb(4, 122, 102);
+}
+
+h2 {
+    font-size: 25px;
+    color: purple;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-size: 45px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+ol {
+    display: inline-block;
+
+}
+
+p {
+    font-size: 20px;
+}
